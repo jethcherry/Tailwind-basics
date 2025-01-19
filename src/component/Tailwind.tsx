@@ -14,8 +14,8 @@ function Tailwind() {
     //   <div className=" h-20  bg-green-500">10</div>
     // </div>
 
-    <div className="bg-yellow-500 w-auto grid grid-rows-3 grid-flow-col gap-4">
-      <div className="row-span-2 h-20  bg-red-500">1</div>
+    <div className="bg-yellow-500 w-auto grid grid-cols-5 grid-flow-row gap-8">
+      <div className=" h-20  bg-red-500">1</div>
       <div className=" h-20  bg-blue-500">2</div>
       <div className=" h-20  bg-green-500">3</div>
 
