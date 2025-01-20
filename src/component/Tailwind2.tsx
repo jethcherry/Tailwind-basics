@@ -6,7 +6,7 @@ function Tailwind2() {
     //   </div>
     // </div> borde
     <div>
-      <button className="bg-green-600 m-20 p-5 text-white rounded-t-md border-white border-8 border-opacity-100 border-dashed">
+      <button className="bg-green-600 m-20 p-5 text-white rounded-t-md shadow-2xl border-white border-8 border-opacity-100 ">
         Click Here
       </button>
     </div>
