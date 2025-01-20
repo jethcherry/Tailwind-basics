@@ -1,9 +1,9 @@
-import Tailwind from "./component/Tailwind";
+import Tailwind2 from "./component/Tailwind2";
 
 function App() {
   return (
     <div>
-      <Tailwind />
+      <Tailwind2 />
     </div>
   );
 }
