@@ -1,7 +1,9 @@
 function Tailwind2() {
   return (
-    <div className="bg-blue-500 p-10 pt-10">
-      <div className="bg-red-500 m-10 p-10">This is the inner div</div>
+    <div className="">
+      <div className="text-4xl text-center text-green-700 font-light lowercase">
+        This is the inner div
+      </div>
     </div>
   );
 }
