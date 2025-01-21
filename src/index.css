@@ -8,8 +8,14 @@
   }
 } */
 
-@layer components{
+/* @layer components{
   .menu-button{
     @apply text-white bg-indigo-500 p-3
+  }
+} */
+
+@layer utilities {
+  .text-green-500 {
+    color: blue;
   }
 }
