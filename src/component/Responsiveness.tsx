@@ -14,7 +14,9 @@ function Responsiveness() {
       /> */}
       {/* <p className="group-hover:text-white">Para 1</p>
       <p>Para 2</p> */}
-      <a href="">Click Here</a>
+      {/* <a href="">Click Here</a> */}
+      <button className="menu-button">Click</button>
+      <button className="menu-button">Exit</button>
     </div>
   );
 }
