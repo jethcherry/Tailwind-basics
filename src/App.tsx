@@ -1,9 +1,9 @@
-import Tailwind2 from "./component/Tailwind2";
+import Responsiveness from "./component/Responsiveness";
 
 function App() {
   return (
     <div>
-      <Tailwind2 />
+      <Responsiveness />
     </div>
   );
 }
