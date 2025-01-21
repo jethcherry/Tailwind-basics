@@ -1,6 +1,6 @@
-@tailwind base;
+/* @tailwind base;
 @tailwind components;
-@tailwind utilities;
+@tailwind utilities; */
 
 /* @layer base {
   a {
@@ -13,9 +13,13 @@
     @apply text-white bg-indigo-500 p-3
   }
 } */
-
+/* 
 @layer utilities {
   .text-green-500 {
     color: blue;
   }
+} */
+
+.menu-button {
+  @apply text-white bg-green-500 rounded;
 }

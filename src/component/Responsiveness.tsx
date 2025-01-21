@@ -17,7 +17,8 @@ function Responsiveness() {
       {/* <a href="">Click Here</a> */}
       {/* <button className="menu-button">Click</button>
       <button className="menu-button">Exit</button> */}
-      <h1 className="text-green-500">Heading</h1>
+      {/* <h1 className="text-green-500">Heading</h1> */}
+      <button className="menu-button">Hello</button>
     </div>
   );
 }
